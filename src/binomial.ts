@@ -4,7 +4,7 @@
  * @param S - Current stock price (number): The current price of the underlying stock.
  * @param K - Strike price (number): The price at which the option can be exercised.
  * @param r - Risk-free rate (number): The annual risk-free interest rate (as a decimal).
- * @param T - Time to maturity (number): The time to maturity of the option in years.
+ * @param T - Time to maturity (number): The time to maturity of the option in days.
  * @param N - Number of time steps (number): The number of time steps in the binomial model.
  * @param sigma - Volatility (number): The annual volatility of the stock's returns (as a decimal).
  * 
